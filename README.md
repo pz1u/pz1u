@@ -20,4 +20,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pz1u)
 
 ### 📌 Pinned Projects
-- [KB-Kkobi (나루)](https://github.com/pz1u/kb-kkobi) — 인프라/배포 담당
+- [KB-Kkobi (나루)](https://github.com/KB-Kkobi) — 인프라/배포 담당
