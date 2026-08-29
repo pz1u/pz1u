@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 박지우입니다!</h1>
+<h1 align="center">안녕하세요, 박지우입니다!</h1>
 <h3 align="center">Backend Developer focused on Java / Spring</h3>
 
 - 🔭 현재 백엔드를 공부하고 있습니다
@@ -15,9 +15,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📊 GitHub Stats
-![지우's GitHub stats](https://github-readme-stats.vercel.app/api?username=p_z1u_ID&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p_z1u&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p_z1u)
+![pz1u's GitHub stats](https://github-readme-stats.vercel.app/api?username=pz1u&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pz1u&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pz1u)
 
 ### 📌 Pinned Projects
-- [KB-Kkobi (나루)](https://github.com/YOUR_GITHUB_ID/kb-kkobi) — 인프라/배포 담당
+- [KB-Kkobi (나루)](https://github.com/pz1u/kb-kkobi) — 인프라/배포 담당
