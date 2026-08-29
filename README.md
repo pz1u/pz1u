@@ -6,10 +6,22 @@
 - 📫 연락처: jiu0414a@gmail.com
 
 ### 🛠 Tech Stack
+
+**Language**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend**
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps / Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -20,4 +32,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=pz1u)
 
 ### 📌 Pinned Projects
-- [KB-Kkobi (나루)](https://github.com/KB-Kkobi) — 인프라/배포 담당
+- [KB-Kkobi (나루)](https://github.com/KB-Kkobi) — 인프라·배포 리드 및 백엔드 개발, 최우수상 수상
