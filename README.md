@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 지우</h1>
+<h1 align="center">안녕하세요! 박지우입니다!</h1>
 <h3 align="center">Backend Developer focused on Java / Spring</h3>
 
 - 🔭 현재 백엔드를 공부하고 있습니다
