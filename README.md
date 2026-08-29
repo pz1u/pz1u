@@ -32,5 +32,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 📊 GitHub Stats
+![지우's GitHub stats](https://github-readme-stats.vercel.app/api?username=pz1u&show_icons=true&theme=default)
+
 ### 📌 Pinned Projects
 - [KB-Kkobi (나루)](https://github.com/KB-Kkobi) — 인프라·배포 리드 및 백엔드 개발, 최우수상 수상
