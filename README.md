@@ -15,9 +15,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 📊 GitHub Stats
-![지우's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID)
+![지우's GitHub stats](https://github-readme-stats.vercel.app/api?username=p_z1u_ID&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p_z1u&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p_z1u)
 
 ### 📌 Pinned Projects
 - [KB-Kkobi (나루)](https://github.com/YOUR_GITHUB_ID/kb-kkobi) — 인프라/배포 담당
