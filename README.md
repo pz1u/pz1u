@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 ![pz1u's GitHub stats](https://github-readme-stats.vercel.app/api?username=pz1u&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pz1u&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pz1u)
+![GitHub Streak](https://streak-stats.demolab.com?user=pz1u)
 
 ### 📌 Pinned Projects
 - [KB-Kkobi (나루)](https://github.com/KB-Kkobi) — 인프라/배포 담당
