@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=162E5A&height=200&section=header&text=Hi,%20I'm%20지우!&fontSize=45&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=162E5A&height=200&section=header&text=Backend%20Developer%20지우&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=162E5A&center=true&vCenter=true&width=440&lines=Backend+Developer;Java+%7C+Spring+%7C+MySQL+%7C+Redis;KB+IT's+Your+Life+7%EA%B8%B0" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=pz1u&color=162E5A&style=flat)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=162E5A&center=true&vCenter=true&width=440&lines=Backend+Developer;Java+%7C+Spring+%7C+MySQL+%7C+Redis" />
 
 </div>
 
